@@ -24,9 +24,9 @@
     </distributionManagement>
 
     <scm>
-       <connection>scm:git:https://github.com/KannanGithub/sampleWebApp.git</connection>
-       <developerConnection>scm:git:https://github.com/KannanGithub/sampleWebApp.git</developerConnection>
-       <url>https://github.com/KannanGithub/sampleWebApp/</url>
+       <connection>scm:git:https://github.com/lalitd3005/middleware-.git</connection>
+       <developerConnection>scm:git:https://github.com/lalitd3005/middleware-.git</developerConnection>
+       <url>https://github.com/lalitd3005/middleware-</url>
        <tag>sample-web-1.34</tag>
     </scm>
 
